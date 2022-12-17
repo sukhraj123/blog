@@ -1,0 +1,13 @@
+.web h1 {
+  color: black;
+  text-align: center;
+}
+
+.web p {
+  color: black;
+}
+
+.web {
+  background-color: #ffffff;
+  height: 100vh;
+}

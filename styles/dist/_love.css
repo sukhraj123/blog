@@ -1,0 +1,16 @@
+.love {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.love p {
+  color: #000000;
+}
+
+.love h1 {
+  text-align: left;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 80px;
+  color: #000000;
+}
